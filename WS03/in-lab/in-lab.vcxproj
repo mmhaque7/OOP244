@@ -142,14 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="input.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="CRA_Account.cpp" />
     <ClCompile Include="w3_in_lab.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="CRA_Account.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
