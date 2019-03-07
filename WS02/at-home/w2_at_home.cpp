@@ -4,7 +4,8 @@
 // Author: Cornel
 
 // TODO: include headers
-
+#include <iostream>
+#include"CellPhone.h"
 using namespace std;
 using namespace sict;
 
@@ -14,7 +15,7 @@ int main()
 {
 	int count = 0;
 	// TODO: declare the pPhones pointer here (don't forget to initialize it)
-
+	CellPhone*pPhones = nullptr;
 
 	cout << "==========" << endl
 	     << "Input data" << endl
@@ -26,12 +27,12 @@ int main()
 	if (count < 1) return 1;
 
 	// TODO: allocate dynamic memory here for the pPhones pointer
-
+	pPhones = new CellPhone[count];
 
 	for (int i = 0; i < count; ++i) {
 		cout << "Phone #" << i + 1 << ": " << endl;
 		// TODO: add code to accept user input for Phone i
-
+		read(pPhones[i]);
 	}
 	cout << "==========" << endl << endl;
 
@@ -45,10 +46,20 @@ int main()
 	// expand the array of Phones by 1 element
 	{
 		// TODO: allocate dynamic memory for count + 1 Phones
+		CellPhone * pPhones2 = nullptr;
+		pPhones2 = new CellPhone[count + 1];
 		// TODO: copy elements from original array into this newly allocated array
+		for (int i = 0; i < count; ++i) {
+			pPhones2[i] = pPhones[i];
+		}
 		// TODO: deallocate the dynamic memory for the original array
+		delete[] pPhones;
+	
 		// TODO: copy the address of the newly allocated array into pPhones pointer
+		pPhones = pPhones2;
+
 	}
+
 
 	// add the new Phone
 	cout << "==========\n"
@@ -58,6 +69,8 @@ int main()
 	// TODO: accept input for the new element in the array
 
 	count++;
+	CellPhone &iPhone = pPhones[count - 1];
+	read(iPhone);
 	cout << "==========\n" << endl;
 
 	// testing that the overload of "display(...)" works
@@ -65,7 +78,7 @@ int main()
 	cout << endl;
 
 	// TODO: deallocate the dynamic memory here
-
+	delete[] pPhones;
 	return 0;
 }
 

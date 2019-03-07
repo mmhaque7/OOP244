@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Seneca/OOP244/OOP244-winter/OOP-Workshops/WS02/at-home/CellPhone.cpp
+CellPhone.h
+D:/Seneca/OOP244/OOP244-winter/OOP-Workshops/WS02/at-home/CellPhone.h
+iostream
+-
+iomanip
+-
+
+D:/Seneca/OOP244/OOP244-winter/OOP-Workshops/WS02/at-home/CellPhone.h
+
+D:/Seneca/OOP244/OOP244-winter/OOP-Workshops/WS02/at-home/w2_at_home.cpp
+iostream
+-
+CellPhone.h
+D:/Seneca/OOP244/OOP244-winter/OOP-Workshops/WS02/at-home/CellPhone.h
+

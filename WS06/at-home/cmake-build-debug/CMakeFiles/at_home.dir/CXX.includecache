@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Seneca/OOP244/OOP244-winter/OOP-Workshops/WS06/at-home/Contact.cpp
+Contact.h
+D:/Seneca/OOP244/OOP244-winter/OOP-Workshops/WS06/at-home/Contact.h
+iostream
+-
+cstring
+-
+iomanip
+-
+
+D:/Seneca/OOP244/OOP244-winter/OOP-Workshops/WS06/at-home/Contact.h
+
+D:/Seneca/OOP244/OOP244-winter/OOP-Workshops/WS06/at-home/w6_at_home.cpp
+iostream
+-
+Contact.h
+D:/Seneca/OOP244/OOP244-winter/OOP-Workshops/WS06/at-home/Contact.h
+Contact.h
+D:/Seneca/OOP244/OOP244-winter/OOP-Workshops/WS06/at-home/Contact.h
+

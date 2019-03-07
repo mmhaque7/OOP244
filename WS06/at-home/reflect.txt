@@ -1,0 +1,7 @@
+1. Why does the copy assignment operator check for self-assignment before doing anything else? If it doesn’t do this test, what could go wrong? 
+--> the copy assignment operator need check for self-assignment before doing anything because to figure out if LH = LHS, we check address of the current object to the address of the source. if we do not do this test,  the memory that was used would be deallocated and would lose the access to our data thus resulting in logic failure.
+
+2. What you must do in the copy constructor before calling the copy assignment operator? Explain why it is necessary shallow copy the new data member variable of the instance to destination variables, we do this because after this we deallocate old memory so we can copy the new variables to the new memory that was allocated for the current object. 
+
+3. Explain why the parameter of the copy constructor must be sent by-reference and not by-value (modify your code to send it by-value and explain the result). 
+--> so basically if our copy constructor is sent by-value, we need to make a copy of the parameter but to do that we have called the copy constructor, the problem occurs here because we need to create new value but to do that new need to call copy constructor thus being an endless loop. 

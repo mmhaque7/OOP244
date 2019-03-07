@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Book.cpp">
+    <ClCompile Include="w3_in_lab.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="w3_in_lab.cpp">
+    <ClCompile Include="Book.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

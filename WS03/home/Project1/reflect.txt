@@ -1,0 +1,17 @@
+/*Md. Mehedi Haque
+154908172
+mmhaque7@myseneca.ca
+Feb 04 2019
+*/
+1.	What type have you selected for ISBN? Explain your reasoning?
+-->	long long int because ISBN-13 has 13 digits and int only holds up to 2,147,483,647 thus we had to use the type that could hold the 13 digits required for the ISBN which in this case was Long Long.
+
+2.	For the at-home portion, you had to change the logic that validates an ISBN.
+	How would you design your class in such a way that if a new update to the
+	validation logic is necessary, you don’t have to change anything in the function Book::set(...)?
+
+-->	In our class, we can have another member function that validates the ISBN and in the Book::set(...) we can call the new function to validate the ISBN thus allowing us not to update the Book::set() function.
+
+QuizXxX reflection
+
+**Sir during the lab period I may have lost the quiz when I was in either the lab class or the library after. Sorry for the inconvenience.

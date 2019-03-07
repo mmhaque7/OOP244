@@ -1,0 +1,27 @@
+Md Mehedi Haque
+154908172
+
+1) Why do you need to allocate new dynamic memory for the entire array
+when you increase the size of an existing array of dynamically allocated
+memory? Why not allocate memory only for the new element?
+
+-->we needed to allocate another dynamic memory because of pPhones already has a set dedicated memory thus we need more memory before using it again. We do not allocate memory for a new element in our main code the display function needs all the data and creating a new memory of it would make the code longer instead we make our original memory larger.
+
+2)The CellPhone structure stores the model of the cellphone in an array of
+characters. At the end of the program, we do not use the delete operator
+to deallocate the memory occupied by the model. Why don’t we need to
+use the delete operator on this array itself? Explain and compare with the
+array of cellphones.?
+
+--> We do not deallocate the array itself because we are deallocating the pointer.
+
+3) There are two display(...) function definitions. How does the compiler know which definition to call from your main function?
+
+--> The Compiler knows which display() function to call by examining the types of the parameter requested.
+
+
+QUIZ 2 reflection
+2.   What is passed to a C++ reference parameter?
+--> The address of  Item is passed.
+
+3.  *I used circle brackets instead of square brackets* I wrote strcpy(word, "Strom") where the correct answer is strcpy[word, "Storm"].

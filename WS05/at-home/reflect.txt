@@ -1,0 +1,14 @@
+Mehedi Haque
+154908172
+
+
+1. The operator+ returns a Fraction object. Explain why this operator should not return a reference to a Fraction object (like operator+=). 
+--> the operator + does not reference to a Fraction because when it is leaving the function, the object is out os scope and thus it no longer exits.
+
+List the temporary objects in the tester module (the temporary objects are those that have no name and are removed from memory immediately after their creation; put messages in the constructors/destructor to reveal them). 
+--> The temporary objects are the ones created under the operator functions. such as result, current and etc.
+
+
+3. List the simplifications that you made to your class to minimize duplication. 
+-->Within the operator functions, I called any existing ones where appropriate to minimize code duplications.
+	

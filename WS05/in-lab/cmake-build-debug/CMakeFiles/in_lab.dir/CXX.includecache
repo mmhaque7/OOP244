@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Seneca/OOP244/OOP244-winter/OOP-Workshops/WS05/in-lab/Fraction.cpp
+iostream
+-
+Fraction.h
+D:/Seneca/OOP244/OOP244-winter/OOP-Workshops/WS05/in-lab/Fraction.h
+
+D:/Seneca/OOP244/OOP244-winter/OOP-Workshops/WS05/in-lab/Fraction.h
+

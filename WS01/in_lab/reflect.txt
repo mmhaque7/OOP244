@@ -1,0 +1,15 @@
+1.	The purpose of namespaces and header files:
+	The purpose of the namespace is to avoid name conflicts.
+	The purpose of header files is that it contains the definitions of functions and variables that are used in the in the implementation file.
+also, header files introduce identifiers to the compiler, so when a module gets compiled, the compiler knows if that identifier is used correctly or not.
+
+2.	why header files should not be compiled?
+	Compiling header files is useless due to the fact they only contain the definitions and declarations but does not actually implements the function. Compiling header files do not cause harm to your computer.
+
+3.	 Why you should never include .cpp files in another file?
+	We should never include a .cpp because it defeats the purpose of separating the code into different modules.
+
+QUIZ Reflection
+QUESTION 3
+I put #include "hello.cpp" where it should be #incldue"hello.h"
+

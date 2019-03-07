@@ -3,8 +3,15 @@
 // Date: 31/08/2018
 // Author: Cornel
 
-// TODO: include headers
+/*
+	Md Mehedi Haque
+	154908172
+	mmhaque7@myseneca.ca
+*/
 
+// TODO: include headers
+#include<iostream>
+#include"CellPhone.h"
 using namespace std;
 using namespace sict;
 
@@ -14,6 +21,7 @@ int main()
 {
 	int count = 0;
 	// TODO: declare the pPhones pointer here (don't forget to initialize it)
+	CellPhone* pPhones = nullptr;
 
 	cout << "==========" << endl
 	     << "Input data" << endl
@@ -25,10 +33,12 @@ int main()
 	if (count < 1) return 1;
 
 	// TODO: allocate dynamic memory here for the pPhones pointer
+	pPhones = new CellPhone[count];
 
 	for (int i = 0; i < count; ++i) {
 		cout << "Phone #" << i + 1 << ": " << endl;
 		// TODO: add code to accept user input for Phone i
+		read(pPhones[i]);
 	}
 	cout << "==========" << endl << endl;
 
@@ -40,7 +50,8 @@ int main()
 	cout << "------------------------------" << endl << endl;
 
 	// TODO: deallocate the dynamic memory here
-
+	delete[] pPhones;
+	pPhones = nullptr;
 	return 0;
 }
 

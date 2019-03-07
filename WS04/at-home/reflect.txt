@@ -1,0 +1,13 @@
+Mehedi Haque
+154908172
+Feb 02 2019
+
+
+1)	What is a safe empty state? Could you define another state as the safe empty state?
+Safe empty state is when we initialize the values of private data members of an object to 0 or null when the object is created with no given values. This prevents the compiler to put garbage information into objects with no initial values. Another safe state would be declaring an object and setting its private data member values at the same time using a member function.
+
+2)	Identify the parts of your source code where to minimized code duplication.
+Using the default constructor to initialize invalid values to a safe empty safe state.
+
+3)	Explain why the canTravelWith(...) member function can access the private data of the object referenced in its parameter.
+It is accessing the address of the private data not the data itself.
