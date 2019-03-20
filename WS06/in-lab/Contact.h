@@ -10,7 +10,7 @@ namespace  sict{
     const int max_name_size = 16;
     class Contact{
     private:
-        char p_name[max_name_size+1];
+        char p_name[max_name_size];
         long long* p_phone = nullptr;
         int numPhone = 0;
     public:

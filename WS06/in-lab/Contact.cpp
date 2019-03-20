@@ -28,7 +28,7 @@ namespace sict{
             *p_name = '\0';
         }else{
             strncpy(p_name,name,max_name_size);
-            p_name[max_name_size]='\0';
+            p_name[max_name_size-1]='\0';
         }
     //validate and copy number!
     if( phoneNumber == nullptr){
