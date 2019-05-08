@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS2/ErrorState.cpp
+iostream
+-
+cstring
+-
+ErrorState.h
+D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS2/ErrorState.h
+
+D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS2/ErrorState.h
+iostream
+-
+

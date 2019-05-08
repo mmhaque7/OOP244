@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="MS4" targetName="MS4" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe08f779-3d3c-4e0d-9325-94c9d3c3e831" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/OOP-Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/.idea/MS1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/3.13.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/MS1.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/MS1.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/MS1.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/MS1.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/MS1.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/MS1.dir/includes_CXX.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/MS1.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/MS1.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/MS1.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/MS1.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/milestone_1.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/milestone_1.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/milestone_1.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/milestone_1.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/milestone_1.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/milestone_1.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/milestone_1.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/milestone_1.dir/includes_CXX.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/milestone_1.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/milestone_1.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/milestone_1.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/milestone_1.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/MS1.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/Project.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/ms1_prof.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS1/myoutput.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/.idea/MS2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/ErrorState.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/ErrorState.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/3.13.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/MS2.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/MS2.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/MS2.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/MS2.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/MS2.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/MS2.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/MS2.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/MS2.dir/includes_CXX.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/MS2.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/MS2.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/MS2.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/MS2.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/MS2.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/Project.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS2/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/.idea/MS3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/ErrorState.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/ErrorState.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/Product.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/Product.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/Utilities.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/Utilities.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/3.13.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/MS2.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/MS2.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/MS2.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/MS2.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/MS2.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/MS2.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/MS2.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/MS2.dir/includes_CXX.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/MS2.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/MS2.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/MS2.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/MS2.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/MS3.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS3/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iProduct.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS5/AmaApp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS5/AmaApp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS5/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS5/Perishable.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS5/Perishable.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS1/Date.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../MS1/Date.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS1/Date.h" beforeDir="false" afterPath="$PROJECT_DIR$/../MS1/Date.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS1/ms1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../MS1/ms1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MS3/ms3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../MS3/ms3.cpp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/iProduct.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="656">
+                  <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Utilities.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Product.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="237">
+                  <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="37" />
+                  <folding>
+                    <element signature="e#133#152#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ms4.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="84" column="76" selection-start-line="84" selection-start-column="76" selection-end-line="84" selection-end-column="76" />
+                  <folding>
+                    <element signature="e#703#724#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Product.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="95">
+                  <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+                  <folding>
+                    <element signature="e#86#105#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Utilities.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="112">
+                  <caret line="7" selection-start-line="7" selection-end-line="7" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Price after Tax</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/iProduct.cpp" />
+        <option value="$PROJECT_DIR$/../MS3/Product.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Utilities.h" />
+        <option value="$PROJECT_DIR$/iProduct.h" />
+        <option value="$PROJECT_DIR$/Utilities.cpp" />
+        <option value="$PROJECT_DIR$/Product.h" />
+        <option value="$PROJECT_DIR$/Product.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MS4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MS4" TARGET_NAME="MS4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MS4" RUN_TARGET_NAME="MS4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe08f779-3d3c-4e0d-9325-94c9d3c3e831" name="Default Changelist" comment="" />
+      <created>1554223547298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554223547298</updated>
+      <workItem from="1554223561522" duration="4506000" />
+      <workItem from="1554389877523" duration="18743000" />
+      <workItem from="1554564600857" duration="2879000" />
+      <workItem from="1554567590618" duration="239000" />
+      <workItem from="1555192722646" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26380000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5006519" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286517" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.33238637" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286517" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5006519" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="0" visible="true" weight="0.3286517" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.33238637" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../MS3/ErrorState.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iProduct.cpp" />
+    <entry file="file://$PROJECT_DIR$/../MS3/Product.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="58" column="39" lean-forward="true" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ErrorState.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/MinGW/lib/gcc/mingw32/8.2.0/include/c++/ostream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="126" column="6" selection-start-line="126" selection-start-column="6" selection-end-line="126" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="102" selection-end-line="6" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/MinGW/lib/gcc/mingw32/8.2.0/include/c++/ctime">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/MinGW/lib/gcc/mingw32/8.2.0/include/c++/bits/locale_facets_nonio.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="149" column="50" selection-start-line="149" selection-start-column="50" selection-end-line="149" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/MinGW/lib/gcc/mingw32/8.2.0/include/c++/iomanip">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iProduct.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utilities.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ms4.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="84" column="76" selection-start-line="84" selection-start-column="76" selection-end-line="84" selection-end-column="76" />
+          <folding>
+            <element signature="e#703#724#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding>
+            <element signature="e#86#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utilities.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="37" />
+          <folding>
+            <element signature="e#133#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

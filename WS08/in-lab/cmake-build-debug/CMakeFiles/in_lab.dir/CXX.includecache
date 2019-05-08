@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Seneca/OOP244/OOP244-winter/OOP-Workshops/WS08/in-lab/Account.h
+iAccount.h
+D:/Seneca/OOP244/OOP244-winter/OOP-Workshops/WS08/in-lab/iAccount.h
+
+D:/Seneca/OOP244/OOP244-winter/OOP-Workshops/WS08/in-lab/SavingsAccount.cpp
+iostream
+-
+iomanip
+-
+SavingsAccount.h
+D:/Seneca/OOP244/OOP244-winter/OOP-Workshops/WS08/in-lab/SavingsAccount.h
+
+D:/Seneca/OOP244/OOP244-winter/OOP-Workshops/WS08/in-lab/SavingsAccount.h
+ostream
+-
+Account.h
+D:/Seneca/OOP244/OOP244-winter/OOP-Workshops/WS08/in-lab/Account.h
+
+D:/Seneca/OOP244/OOP244-winter/OOP-Workshops/WS08/in-lab/iAccount.h
+ostream
+-
+

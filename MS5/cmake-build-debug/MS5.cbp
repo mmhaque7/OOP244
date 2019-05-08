@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MS5"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MS5">
+				<Option output="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/MS5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/."/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 MS5"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MS5/fast">
+				<Option output="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/MS5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/."/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 MS5/fast"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/AmaApp.cpp">
+			<Option target="MS5"/>
+		</Unit>
+		<Unit filename="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/AmaApp.h">
+			<Option target="MS5"/>
+		</Unit>
+		<Unit filename="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/Date.cpp">
+			<Option target="MS5"/>
+		</Unit>
+		<Unit filename="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/Date.h">
+			<Option target="MS5"/>
+		</Unit>
+		<Unit filename="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/ErrorState.cpp">
+			<Option target="MS5"/>
+		</Unit>
+		<Unit filename="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/ErrorState.h">
+			<Option target="MS5"/>
+		</Unit>
+		<Unit filename="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/Perishable.cpp">
+			<Option target="MS5"/>
+		</Unit>
+		<Unit filename="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/Perishable.h">
+			<Option target="MS5"/>
+		</Unit>
+		<Unit filename="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/Product.cpp">
+			<Option target="MS5"/>
+		</Unit>
+		<Unit filename="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/Product.h">
+			<Option target="MS5"/>
+		</Unit>
+		<Unit filename="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/Utilities.cpp">
+			<Option target="MS5"/>
+		</Unit>
+		<Unit filename="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/Utilities.h">
+			<Option target="MS5"/>
+		</Unit>
+		<Unit filename="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/iProduct.h">
+			<Option target="MS5"/>
+		</Unit>
+		<Unit filename="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/ms5.cpp">
+			<Option target="MS5"/>
+		</Unit>
+		<Unit filename="D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

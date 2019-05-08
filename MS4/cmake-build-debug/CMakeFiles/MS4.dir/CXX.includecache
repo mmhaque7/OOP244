@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS4/ErrorState.h
+iostream
+-
+
+D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS4/Product.cpp
+iostream
+-
+cstring
+-
+string
+-
+iomanip
+-
+Utilities.h
+D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS4/Utilities.h
+Product.h
+D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS4/Product.h
+ErrorState.h
+D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS4/ErrorState.h
+
+D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS4/Product.h
+iostream
+-
+ErrorState.h
+D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS4/ErrorState.h
+iProduct.h
+D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS4/iProduct.h
+
+D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS4/Utilities.h
+Product.h
+D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS4/Product.h
+iostream
+-
+
+D:/Seneca/OOP244/OOP244-winter/OOP-Project/MS4/iProduct.h
+iostream
+-
+

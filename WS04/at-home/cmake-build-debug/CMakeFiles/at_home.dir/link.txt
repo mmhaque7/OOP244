@@ -1,3 +1,0 @@
-"D:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\at_home.dir/objects.a
-D:\MinGW\bin\ar.exe cr CMakeFiles\at_home.dir/objects.a @CMakeFiles\at_home.dir\objects1.rsp
-D:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\at_home.dir/objects.a -Wl,--no-whole-archive  -o at_home.exe -Wl,--out-implib,libat_home.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\at_home.dir\linklibs.rsp
